@@ -13,4 +13,4 @@ Visit [jesuswalksonwater.live](https://jesuswalksonwater.live)  and step into th
 
 ![Posnetek zaslona 2024-02-27 154723](https://github.com/simonskok/crypto-trading-quant-app/assets/34587188/54e48b11-8b90-4dd0-86d5-b8d0bc81dd88)
 
-As this will become an open source projects, all suggestions and comments are welcome, which can be left directly in the app chat or on jesuswalksonwaterlive@gmail.com. Developers skilled in building scalable apps are especially welcome. Lets help each other and build together to advance the quant crypto investing of the 21 century! 
+As this will become an open source projects, all suggestions and comments are welcome, which can be left directly in the app chat or on jesuswalksonwaterlive@gmail.com. Developers skilled in building scalable apps are especially welcome. Lets help each other and build together to advance the quant crypto investing of the 21st century! 
